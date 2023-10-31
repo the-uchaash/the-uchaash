@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uchaash Barua</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate software tester from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-uchaash&label=Profile%20views&color=0e75b6&style=flat" alt="the-uchaash" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Click-Up, Jmeter**
 
-- 💬 Ask me about **Testing tools like ZIRA, Postman,**
+- 💬 Ask me about **Testing tools like Postman,**
 
 - 📫 How to reach me **uchaashbarua@gmail.com**
 
